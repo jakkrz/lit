@@ -14,7 +14,7 @@ lit commit
 lit log
 lit status
 ```
-Other functionalit
+Other functionality may be added in the future.
 
 # Installation
 
